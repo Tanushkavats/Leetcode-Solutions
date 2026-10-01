@@ -21,8 +21,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
