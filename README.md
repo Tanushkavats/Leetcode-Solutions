@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -33,4 +34,8 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
