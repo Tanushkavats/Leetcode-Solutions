@@ -8,6 +8,7 @@
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
