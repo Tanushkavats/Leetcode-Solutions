@@ -11,6 +11,7 @@
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
