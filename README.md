@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
