@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
