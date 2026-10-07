@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -67,5 +68,6 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
