@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -67,7 +68,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
