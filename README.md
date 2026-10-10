@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
