@@ -42,6 +42,7 @@
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -89,4 +90,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
