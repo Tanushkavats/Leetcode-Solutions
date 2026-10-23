@@ -32,6 +32,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -76,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
 | ------- |
