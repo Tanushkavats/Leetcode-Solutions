@@ -41,6 +41,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0443-string-compression) |
@@ -70,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -109,5 +112,10 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
