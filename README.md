@@ -49,6 +49,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -92,11 +93,13 @@
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
