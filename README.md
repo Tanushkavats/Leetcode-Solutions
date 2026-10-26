@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -86,6 +88,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
