@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -140,5 +142,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
