@@ -12,6 +12,7 @@
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
