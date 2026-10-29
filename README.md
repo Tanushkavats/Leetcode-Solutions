@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0344-reverse-string) |
