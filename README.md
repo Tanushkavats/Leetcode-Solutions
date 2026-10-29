@@ -56,6 +56,7 @@
 | [0500-keyboard-row](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -103,6 +104,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
