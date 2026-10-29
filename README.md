@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -151,4 +152,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
