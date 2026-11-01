@@ -31,6 +31,7 @@
 | [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
