@@ -38,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
@@ -52,6 +53,7 @@
 | [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -106,6 +108,7 @@
 | [0048-rotate-image](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
