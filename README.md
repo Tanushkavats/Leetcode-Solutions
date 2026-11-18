@@ -12,6 +12,7 @@
 | [0383-ransom-note](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tanushkavats/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
